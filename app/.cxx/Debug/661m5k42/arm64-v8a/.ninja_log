@@ -1,0 +1,3 @@
+# ninja log v5
+0	634	1746675066844501270	CMakeFiles/native-lib.dir/native-lib.cpp.o	4fb8d0dff746649b
+636	809	1746675067013163563	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/661m5k42/obj/arm64-v8a/libnative-lib.so	9713fa6b403ee238

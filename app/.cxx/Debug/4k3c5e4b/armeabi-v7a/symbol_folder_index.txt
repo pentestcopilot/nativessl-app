@@ -1,0 +1,1 @@
+/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/armeabi-v7a

@@ -1,0 +1,3 @@
+/Users/thiago/AndroidStudioProjects/nativessl/app/.cxx/Debug/661m5k42/arm64-v8a/CMakeFiles/native-lib.dir
+/Users/thiago/AndroidStudioProjects/nativessl/app/.cxx/Debug/661m5k42/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/thiago/AndroidStudioProjects/nativessl/app/.cxx/Debug/661m5k42/arm64-v8a/CMakeFiles/rebuild_cache.dir

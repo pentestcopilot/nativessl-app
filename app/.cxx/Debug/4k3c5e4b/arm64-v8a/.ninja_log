@@ -1,0 +1,13 @@
+# ninja log v5
+0	487	1746669594981098379	CMakeFiles/native-lib.dir/native-lib.cpp.o	7060ff7a58e2536d
+489	635	1746669595132059094	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/arm64-v8a/libnative-lib.so	a28aa94f0006fd9e
+2	482	1746671050904500545	CMakeFiles/native-lib.dir/native-lib.cpp.o	7d253bf3f4f91292
+483	628	1746671051044811725	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/arm64-v8a/libnative-lib.so	8ba8d3d45c63ab2d
+2	481	1746671492895043773	CMakeFiles/native-lib.dir/native-lib.cpp.o	7d253bf3f4f91292
+481	632	1746671493041870744	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/arm64-v8a/libnative-lib.so	8ba8d3d45c63ab2d
+4	692	1746671709452320831	CMakeFiles/native-lib.dir/native-lib.cpp.o	7d253bf3f4f91292
+692	852	1746671709608866099	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/arm64-v8a/libnative-lib.so	8ba8d3d45c63ab2d
+3	577	1746671743333562234	CMakeFiles/native-lib.dir/native-lib.cpp.o	7d253bf3f4f91292
+577	769	1746671743523016660	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/arm64-v8a/libnative-lib.so	8ba8d3d45c63ab2d
+4	637	1746671826187546100	CMakeFiles/native-lib.dir/native-lib.cpp.o	7d253bf3f4f91292
+637	780	1746671826327234136	/Users/thiago/AndroidStudioProjects/nativessl/app/build/intermediates/cxx/Debug/4k3c5e4b/obj/arm64-v8a/libnative-lib.so	8ba8d3d45c63ab2d
